@@ -1,0 +1,32 @@
+[
+  {
+    "ua": {
+      "header": ["Головна", "Навички", "Проєкти", "Контакти"],
+      "main": {
+        "title": "Привіт, я",
+        "subtitle": "А це мій сайт-портфоліо",
+        "button": "Переглянути проєкти"
+      },
+      "projects": "Детальніше",
+      "contacts": "Відправити",
+      "footer": {
+        "mail": "Пошта для зв'язку:",
+        "telegram": "Телеграм для зв'язку"
+      }
+    },
+    "en": {
+      "header": ["Home", "Skills", "Projects", "Contacts"],
+      "main": {
+        "title": "Hello, I am",
+        "subtitle": "And this is my portfolio site",
+        "button": "View projects"
+      },
+      "projects": "More",
+      "contacts": "Send",
+      "footer": {
+        "mail": "Mail for communication:",
+        "telegram": "Telegram for communication"
+      }
+    }
+  }
+]
