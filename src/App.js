@@ -6,7 +6,7 @@ export const targetRefsContext = React.createContext();
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<MainSite />} />
+      <Route path="/react-portfolio" element={<MainSite />} />
     </Routes>
   );
 }
