@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.d6022c29.css",
-    "main.js": "/react-portfolio/static/js/main.a3bca998.js",
+    "main.js": "/react-portfolio/static/js/main.e5b41c25.js",
     "static/media/Megavolt-Regular.woff": "/react-portfolio/static/media/Megavolt-Regular.5d5936dce337861424a7.woff",
     "static/media/Megavolt-Regular.woff2": "/react-portfolio/static/media/Megavolt-Regular.0c9ddc77ede8d45ac7ef.woff2",
     "static/media/NodeJS.svg": "/react-portfolio/static/media/NodeJS.1d7b6edc946cb907642b64a3b86e814d.svg",
@@ -19,10 +19,10 @@
     "static/media/ukraine.svg": "/react-portfolio/static/media/ukraine.3b67257074fcf1e9fac4091b0a730885.svg",
     "static/media/logo.svg": "/react-portfolio/static/media/logo.aa0860578ae48370714ce00aba01f72d.svg",
     "main.d6022c29.css.map": "/react-portfolio/static/css/main.d6022c29.css.map",
-    "main.a3bca998.js.map": "/react-portfolio/static/js/main.a3bca998.js.map"
+    "main.e5b41c25.js.map": "/react-portfolio/static/js/main.e5b41c25.js.map"
   },
   "entrypoints": [
     "static/css/main.d6022c29.css",
-    "static/js/main.a3bca998.js"
+    "static/js/main.e5b41c25.js"
   ]
 }
